@@ -14,17 +14,14 @@ Estrutura da tabela no Supabase
 
 Configuração
     Clone este repositório:
-
         git clone https://github.com/Nick2901/desafio-b2bflow-2025.git
         cd src
 
 
     Instale as dependências:
-
         pip install supabase python-dotenv requests
         
     Crie um arquivo .env baseado nos dados a seguir:
-
         SUPABASE_URL=https://xxxx.supabase.co
         SUPABASE_KEY=sua_chave_do_supabase
         ZAPI_INSTANCE_ID=id_da_sua_instancia
